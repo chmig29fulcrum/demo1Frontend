@@ -14,4 +14,4 @@ ENV VITE_BACKUP_URL="http://127.0.0.1:4000/api/v1"
 
 EXPOSE 3000
 
-CMD [ "npm", "build" ]
+CMD [ "npm", "start" ]
